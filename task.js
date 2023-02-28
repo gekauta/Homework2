@@ -1,0 +1,10 @@
+let a = +prompt("Введите а", '0');
+let b = +prompt("Введите b", '0');
+let sum = a+b;
+    minus = a-b;
+    div = a/b;
+    mult = a*b;
+console.log('a', '+', 'b', '=',sum);
+console.log('a', '-', 'b', '=',minus);
+console.log('a', '/', 'b', '=',div);
+console.log('a', '*', 'b', '=',mult);
